@@ -3,6 +3,8 @@ CineMatch Recommender System is a movie recommendation application developed usi
 
 The system preprocesses movie descriptions using techniques like stemming and lemmatization and transforms the text data into numerical features using the Bag of Words model. The recommendations are then generated using Recurrent Neural Networks (RNN). The front end is built with Streamlit, offering an interactive and user-friendly interface.
 
+**The datasets used for this project are : "tmbd_5000_movies" and "tmdb_5000_credits" which are available on KAGGLE**
+
 **Features**
 NLP and Machine Learning Techniques:
 
