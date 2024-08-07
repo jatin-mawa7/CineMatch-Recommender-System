@@ -15,3 +15,5 @@ Interactive Front End:
 
 Built using Streamlit, a Python framework for creating web applications.
 Provides a real-time, user-friendly interface for receiving movie recommendations based on user input.
+![cine shot 1](https://github.com/user-attachments/assets/4aaf83e2-9eab-4092-af4d-921e31b11ecc)
+![cine shot 2](https://github.com/user-attachments/assets/700e7f1d-4ada-4765-83a9-69c513fe64d2)
